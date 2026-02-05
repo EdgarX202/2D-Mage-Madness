@@ -1,4 +1,7 @@
 # Edinburgh Napier University | Games Engineering
+[![Build](https://github.com/EdgarX202/2D-Mage-Madness/actions/workflows/main.yml/badge.svg)](https://github.com/EdgarX202/2D-Mage-Madness/actions/workflows/main.yml)
+![GitHub License](https://img.shields.io/github/license/EdgarX202/2D-Mage-Madness)
+
 > The main goal in this project was to learn how to use SMFL with C++ and build a short game prototype.
 * This prototype was created by 2 games/software students.
 * SFML, C++, Visual Studio.
